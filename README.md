@@ -16,7 +16,7 @@
   <a href="https://www.facebook.com/quangjutd" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/slv_jul_qt/?igsh=MTJpanVwcmYxOTB4NQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
