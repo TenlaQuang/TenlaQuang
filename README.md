@@ -6,7 +6,7 @@
 - 💞️ I’m looking for collaboration on web design and AI
 - 📫 How to contact me: on fb, ig
 - 📛 Pronouns: ...
-- ⚡ Fun Fact: chicken apeared first
+- ⚡ Fun Fact: chicken apeared first (in my opinion)
 
 ---
 
