@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Quang
 - 👀 I’m interested in Information Technology and AI programming
 - 🌱 I’m currently studying Information Technology
-- 💞️ I’m looking for collaboration on web design and desigh
-- 📫 How to contact me ...
+- 💞️ I’m looking for collaboration on web design and AI
+- 📫 How to contact me: on fb, ig
 - 📛 Pronouns: ...
 - ⚡ Fun Fact: chicken apeared first
 
